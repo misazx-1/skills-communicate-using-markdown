@@ -5,3 +5,9 @@
   System.out.printf("Esta raron el tutorial");
 ```
 
+- [x] inscribirse en la maestra
+- [x] enviar papeles
+- [x] asisitir a los cursos
+- [ ] presentar examen
+- [ ] hacer entrevista
+- [ ] confirmar que fui aceptado    
