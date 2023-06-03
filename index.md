@@ -4,8 +4,10 @@
 ```
   System.out.printf("Puedes agregar celdas de codigo con ``` y se cierra igual");
   
-  If (Java > Pythom){ System.out.printf("Java es mejor que python") }
-  else{ Sytem.out.printf("Error 404")}
+  If (Java > Pythom){ 
+    System.out.printf("Java es mejor que python") }
+  else{ 
+    Sytem.out.printf("Error 404")}
   
 ```
 - [x] No entrar a mate y chambiar
